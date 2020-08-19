@@ -1,6 +1,8 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Pyo_twitch_chat_0"></a>Pyo twitch chat</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="4">Very old and basic code for the bot ‘pyo’.<br>
 Idk why you’d want to use this, but you do whatever</p>
+<img src="https://i.imgur.com/417677L.png"/><br>
+<img src="https://i.imgur.com/8mYdkSg.png"/><br>
 <h1 class="code-line" data-line-start=5 data-line-end=6 ><a id="Install_5"></a>Install</h1>
 <pre><code class="has-line-data" data-line-start="8" data-line-end="12" class="language-sh">$ npm i tmi.js
 &amp;&amp;
@@ -29,4 +31,6 @@ $ npm i electron
 </code></pre>
 <h1 class="code-line" data-line-start=37 data-line-end=38 ><a id="Running_37"></a>Running</h1>
 <pre><code class="has-line-data" data-line-start="39" data-line-end="41" class="language-sh">$ npm start
+or
+$ node bot-console.js
 </code></pre>
