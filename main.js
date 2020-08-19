@@ -13,7 +13,7 @@ function createWindow () {
     }
   })
 
-  //win.removeMenu();
+  win.removeMenu();
 
   // and load the index.html of the app.
   win.loadFile('index.html')
